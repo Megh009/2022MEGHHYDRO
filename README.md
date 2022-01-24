@@ -1,6 +1,3 @@
 # 2022MEGHHYDRO
-coding files for Hydroinformatics class 
+Coding files for Hydroinformatics class (Spring 2022)
 
-## Second header
-
-### Third header
